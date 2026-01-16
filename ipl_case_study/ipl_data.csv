@@ -1,0 +1,501 @@
+match_id,season,city,team1,team2,winning_team,player_of_match,venue,runs_scored,wickets
+,2016.0,Kolkata,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Rohit Sharma,Rajiv Gandhi Intl Stadium,146.0,10.0
+2.0,2021.0,Mumbai,Lucknow Super Giants,Chennai Super Kings,,Virat Kohli,MA Chidambaram Stadium,179.0,8.0
+,2021.0,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Rashid Khan,Eden Gardens,121.0,2.0
+4.0,2016.0,Bangalore,Rajasthan Royals,,Rajasthan Royals,David Warner,Wankhede Stadium,143.0,6.0
+5.0,2019.0,Delhi,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,,Arun Jaitley Stadium,151.0,
+6.0,2019.0,,Chennai Super Kings,Delhi Capitals,,MS Dhoni,Rajiv Gandhi Intl Stadium,178.0,4.0
+7.0,2011.0,Jaipur,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,Rajiv Gandhi Intl Stadium,213.0,2.0
+8.0,2014.0,Delhi,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Rashid Khan,Rajiv Gandhi Intl Stadium,163.0,8.0
+9.0,2022.0,Jaipur,Kolkata Knight Riders,Royal Challengers Bangalore,,Jasprit Bumrah,MA Chidambaram Stadium,203.0,0.0
+,2018.0,Jaipur,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Virat Kohli,MA Chidambaram Stadium,200.0,3.0
+11.0,2022.0,Bangalore,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Rohit Sharma,MA Chidambaram Stadium,257.0,4.0
+,2019.0,Kolkata,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Jasprit Bumrah,M Chinnaswamy Stadium,143.0,0.0
+13.0,2013.0,Jaipur,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,,M Chinnaswamy Stadium,239.0,8.0
+14.0,2011.0,Delhi,Delhi Capitals,Mumbai Indians,Mumbai Indians,Virat Kohli,Eden Gardens,231.0,
+15.0,2016.0,Bangalore,Gujarat Titans,Mumbai Indians,Gujarat Titans,Chris Gayle,,249.0,9.0
+16.0,2019.0,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Rashid Khan,Eden Gardens,245.0,0.0
+17.0,2017.0,Kolkata,Chennai Super Kings,,Chennai Super Kings,AB de Villiers,Arun Jaitley Stadium,140.0,1.0
+18.0,2012.0,Bangalore,Gujarat Titans,,Chennai Super Kings,Jasprit Bumrah,MA Chidambaram Stadium,187.0,8.0
+19.0,2014.0,Delhi,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,David Warner,M Chinnaswamy Stadium,252.0,7.0
+20.0,2015.0,Chennai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Arun Jaitley Stadium,178.0,9.0
+21.0,2010.0,Mumbai,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Virat Kohli,Wankhede Stadium,,1.0
+22.0,2016.0,Ahmedabad,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,,MA Chidambaram Stadium,241.0,3.0
+,2014.0,Chennai,Gujarat Titans,Rajasthan Royals,Gujarat Titans,KL Rahul,Eden Gardens,,6.0
+24.0,,Mumbai,Gujarat Titans,Mumbai Indians,Mumbai Indians,David Warner,Narendra Modi Stadium,147.0,3.0
+25.0,2022.0,Bangalore,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Eden Gardens,238.0,3.0
+26.0,2011.0,Mumbai,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Virat Kohli,,180.0,2.0
+27.0,2023.0,Kolkata,Rajasthan Royals,Gujarat Titans,,MS Dhoni,MA Chidambaram Stadium,217.0,0.0
+28.0,2022.0,,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,244.0,2.0
+29.0,2014.0,Mumbai,Kolkata Knight Riders,,Kolkata Knight Riders,David Warner,Wankhede Stadium,132.0,9.0
+30.0,2009.0,,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Virat Kohli,Arun Jaitley Stadium,137.0,10.0
+,,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Rashid Khan,Wankhede Stadium,227.0,
+32.0,2016.0,Kolkata,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,AB de Villiers,Eden Gardens,221.0,2.0
+33.0,2018.0,Chennai,Delhi Capitals,Gujarat Titans,Delhi Capitals,Hardik Pandya,,145.0,1.0
+,2024.0,Delhi,Lucknow Super Giants,,Lucknow Super Giants,David Warner,Wankhede Stadium,182.0,
+35.0,2022.0,Delhi,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Jasprit Bumrah,Eden Gardens,,2.0
+36.0,2011.0,Bangalore,,Chennai Super Kings,Chennai Super Kings,Chris Gayle,Arun Jaitley Stadium,173.0,5.0
+37.0,2024.0,Ahmedabad,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,MS Dhoni,Wankhede Stadium,,4.0
+38.0,2018.0,Bangalore,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,Rohit Sharma,Rajiv Gandhi Intl Stadium,233.0,8.0
+39.0,2011.0,Chennai,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Jasprit Bumrah,Wankhede Stadium,214.0,9.0
+40.0,2021.0,Bangalore,Lucknow Super Giants,,Lucknow Super Giants,Chris Gayle,,130.0,5.0
+41.0,2011.0,Hyderabad,Kolkata Knight Riders,,Lucknow Super Giants,Rashid Khan,Rajiv Gandhi Intl Stadium,159.0,3.0
+42.0,2021.0,Mumbai,,Lucknow Super Giants,Royal Challengers Bangalore,David Warner,Narendra Modi Stadium,,10.0
+43.0,2013.0,Chennai,,Delhi Capitals,Delhi Capitals,MS Dhoni,Narendra Modi Stadium,240.0,3.0
+44.0,2019.0,Delhi,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,AB de Villiers,Wankhede Stadium,169.0,6.0
+45.0,2010.0,Delhi,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Jasprit Bumrah,M Chinnaswamy Stadium,,5.0
+46.0,2016.0,Bangalore,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,MS Dhoni,Wankhede Stadium,231.0,5.0
+47.0,2024.0,Chennai,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Rashid Khan,MA Chidambaram Stadium,185.0,0.0
+48.0,2024.0,,,,Mumbai Indians,KL Rahul,Wankhede Stadium,204.0,9.0
+49.0,2017.0,Delhi,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,David Warner,M Chinnaswamy Stadium,195.0,8.0
+50.0,2021.0,,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Rashid Khan,Arun Jaitley Stadium,197.0,6.0
+51.0,2017.0,Delhi,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,KL Rahul,Narendra Modi Stadium,202.0,
+52.0,2014.0,,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Virat Kohli,Eden Gardens,251.0,10.0
+53.0,2015.0,Delhi,Sunrisers Hyderabad,Chennai Super Kings,,,MA Chidambaram Stadium,126.0,0.0
+54.0,2010.0,Ahmedabad,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Rashid Khan,MA Chidambaram Stadium,218.0,7.0
+55.0,2012.0,Mumbai,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,KL Rahul,MA Chidambaram Stadium,165.0,8.0
+56.0,2015.0,Chennai,Gujarat Titans,,Mumbai Indians,Rohit Sharma,Narendra Modi Stadium,238.0,10.0
+57.0,2022.0,Jaipur,,,Sunrisers Hyderabad,,Rajiv Gandhi Intl Stadium,241.0,7.0
+58.0,2016.0,,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,Chris Gayle,M Chinnaswamy Stadium,139.0,4.0
+59.0,2018.0,Hyderabad,Kolkata Knight Riders,Delhi Capitals,,Rohit Sharma,MA Chidambaram Stadium,179.0,6.0
+60.0,2010.0,Jaipur,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,David Warner,Arun Jaitley Stadium,,6.0
+61.0,2021.0,Jaipur,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Rashid Khan,M Chinnaswamy Stadium,242.0,0.0
+62.0,2020.0,Jaipur,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Hardik Pandya,,189.0,6.0
+63.0,2020.0,Hyderabad,Gujarat Titans,Mumbai Indians,Mumbai Indians,Rohit Sharma,Narendra Modi Stadium,239.0,2.0
+,2020.0,Mumbai,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,KL Rahul,MA Chidambaram Stadium,238.0,2.0
+65.0,2020.0,Hyderabad,Mumbai Indians,Delhi Capitals,Mumbai Indians,Hardik Pandya,Eden Gardens,206.0,6.0
+66.0,2016.0,Chennai,,Rajasthan Royals,Rajasthan Royals,MS Dhoni,Rajiv Gandhi Intl Stadium,258.0,0.0
+67.0,,Mumbai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,AB de Villiers,MA Chidambaram Stadium,125.0,9.0
+68.0,,Ahmedabad,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Rashid Khan,MA Chidambaram Stadium,239.0,4.0
+,2011.0,Bangalore,,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,Arun Jaitley Stadium,126.0,4.0
+70.0,2014.0,Chennai,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Virat Kohli,Rajiv Gandhi Intl Stadium,197.0,
+,2019.0,Jaipur,,Mumbai Indians,Mumbai Indians,,,207.0,0.0
+72.0,2011.0,Jaipur,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Hardik Pandya,Rajiv Gandhi Intl Stadium,159.0,6.0
+73.0,2023.0,Ahmedabad,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rashid Khan,Eden Gardens,202.0,3.0
+,2022.0,Kolkata,Chennai Super Kings,Delhi Capitals,Delhi Capitals,Rashid Khan,Arun Jaitley Stadium,217.0,5.0
+75.0,2018.0,Bangalore,Mumbai Indians,Gujarat Titans,Gujarat Titans,AB de Villiers,Eden Gardens,186.0,5.0
+76.0,2008.0,Kolkata,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,AB de Villiers,Rajiv Gandhi Intl Stadium,224.0,7.0
+,,,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Wankhede Stadium,195.0,3.0
+,2017.0,Hyderabad,,Kolkata Knight Riders,Kolkata Knight Riders,,,208.0,6.0
+79.0,2019.0,,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Chris Gayle,Eden Gardens,179.0,1.0
+80.0,2011.0,Bangalore,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,AB de Villiers,,243.0,4.0
+81.0,2011.0,Kolkata,Lucknow Super Giants,,Delhi Capitals,,Eden Gardens,165.0,4.0
+82.0,2016.0,Mumbai,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Jasprit Bumrah,Eden Gardens,152.0,10.0
+83.0,2008.0,Delhi,,,,Hardik Pandya,M Chinnaswamy Stadium,207.0,2.0
+84.0,2023.0,Chennai,Mumbai Indians,Delhi Capitals,Mumbai Indians,KL Rahul,M Chinnaswamy Stadium,138.0,9.0
+,2012.0,Delhi,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,Wankhede Stadium,226.0,9.0
+86.0,2022.0,Ahmedabad,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Rashid Khan,M Chinnaswamy Stadium,198.0,9.0
+87.0,2014.0,Kolkata,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Virat Kohli,MA Chidambaram Stadium,181.0,2.0
+88.0,2013.0,Mumbai,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Rajiv Gandhi Intl Stadium,240.0,4.0
+89.0,,Delhi,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Virat Kohli,,179.0,4.0
+90.0,2011.0,Kolkata,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,Chris Gayle,Narendra Modi Stadium,156.0,1.0
+91.0,2017.0,,,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,M Chinnaswamy Stadium,197.0,6.0
+92.0,2022.0,Chennai,Delhi Capitals,Gujarat Titans,Delhi Capitals,KL Rahul,Rajiv Gandhi Intl Stadium,,9.0
+93.0,2010.0,Kolkata,Delhi Capitals,Mumbai Indians,Delhi Capitals,Chris Gayle,Arun Jaitley Stadium,130.0,2.0
+,2016.0,Bangalore,Gujarat Titans,,Lucknow Super Giants,Hardik Pandya,Wankhede Stadium,240.0,5.0
+95.0,2018.0,Chennai,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,David Warner,M Chinnaswamy Stadium,246.0,4.0
+96.0,2022.0,Chennai,Rajasthan Royals,,,Chris Gayle,Eden Gardens,149.0,6.0
+97.0,2022.0,Jaipur,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,AB de Villiers,Arun Jaitley Stadium,212.0,9.0
+98.0,2009.0,Kolkata,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Jasprit Bumrah,MA Chidambaram Stadium,,7.0
+99.0,2008.0,Kolkata,Gujarat Titans,Chennai Super Kings,,Chris Gayle,Arun Jaitley Stadium,123.0,8.0
+100.0,2015.0,Chennai,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Virat Kohli,Rajiv Gandhi Intl Stadium,159.0,7.0
+101.0,2021.0,Ahmedabad,Delhi Capitals,,Lucknow Super Giants,AB de Villiers,M Chinnaswamy Stadium,157.0,6.0
+,2010.0,,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,David Warner,Narendra Modi Stadium,249.0,4.0
+103.0,2017.0,Ahmedabad,Mumbai Indians,Delhi Capitals,Mumbai Indians,Hardik Pandya,Arun Jaitley Stadium,243.0,5.0
+104.0,2022.0,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,AB de Villiers,Arun Jaitley Stadium,218.0,3.0
+,2018.0,Ahmedabad,Rajasthan Royals,Mumbai Indians,Mumbai Indians,KL Rahul,Rajiv Gandhi Intl Stadium,158.0,7.0
+106.0,2024.0,Hyderabad,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Hardik Pandya,Wankhede Stadium,254.0,7.0
+107.0,2021.0,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Hardik Pandya,Narendra Modi Stadium,187.0,5.0
+108.0,,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Hardik Pandya,Narendra Modi Stadium,258.0,0.0
+109.0,2017.0,Kolkata,,Kolkata Knight Riders,Chennai Super Kings,KL Rahul,Wankhede Stadium,145.0,7.0
+110.0,2008.0,Mumbai,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,MS Dhoni,Eden Gardens,211.0,5.0
+111.0,2015.0,Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Rohit Sharma,MA Chidambaram Stadium,140.0,9.0
+112.0,2023.0,Bangalore,,Kolkata Knight Riders,Rajasthan Royals,Hardik Pandya,Rajiv Gandhi Intl Stadium,185.0,7.0
+113.0,2022.0,Delhi,Delhi Capitals,,Delhi Capitals,Virat Kohli,M Chinnaswamy Stadium,208.0,
+114.0,2016.0,Ahmedabad,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,AB de Villiers,M Chinnaswamy Stadium,243.0,1.0
+115.0,2019.0,Delhi,Kolkata Knight Riders,Rajasthan Royals,,MS Dhoni,,221.0,4.0
+116.0,2023.0,,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Rashid Khan,Narendra Modi Stadium,210.0,3.0
+117.0,2012.0,Chennai,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Chris Gayle,Narendra Modi Stadium,232.0,0.0
+118.0,2010.0,Delhi,,Royal Challengers Bangalore,Royal Challengers Bangalore,,MA Chidambaram Stadium,171.0,2.0
+119.0,2024.0,Delhi,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,,Narendra Modi Stadium,243.0,4.0
+120.0,2022.0,Chennai,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,AB de Villiers,Narendra Modi Stadium,221.0,8.0
+121.0,,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Jasprit Bumrah,Wankhede Stadium,236.0,5.0
+122.0,2019.0,Chennai,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Hardik Pandya,Wankhede Stadium,203.0,9.0
+123.0,2022.0,Delhi,Kolkata Knight Riders,Chennai Super Kings,,Virat Kohli,MA Chidambaram Stadium,131.0,0.0
+124.0,,Chennai,Delhi Capitals,Gujarat Titans,Delhi Capitals,Jasprit Bumrah,MA Chidambaram Stadium,219.0,7.0
+,,Jaipur,,Rajasthan Royals,Sunrisers Hyderabad,Hardik Pandya,Arun Jaitley Stadium,224.0,
+126.0,2014.0,Ahmedabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,AB de Villiers,Narendra Modi Stadium,212.0,1.0
+127.0,2009.0,Jaipur,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,AB de Villiers,Wankhede Stadium,236.0,1.0
+128.0,,Hyderabad,,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,Narendra Modi Stadium,172.0,1.0
+129.0,2014.0,Kolkata,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,,120.0,4.0
+130.0,2016.0,Bangalore,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,MS Dhoni,MA Chidambaram Stadium,,5.0
+131.0,,Bangalore,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,MA Chidambaram Stadium,,8.0
+132.0,2023.0,Ahmedabad,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Jasprit Bumrah,,147.0,7.0
+133.0,2009.0,Delhi,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Wankhede Stadium,242.0,6.0
+134.0,2023.0,Ahmedabad,Rajasthan Royals,,Rajasthan Royals,Virat Kohli,Eden Gardens,157.0,1.0
+135.0,2018.0,Jaipur,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Hardik Pandya,Arun Jaitley Stadium,,1.0
+136.0,2021.0,Ahmedabad,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,KL Rahul,Eden Gardens,,6.0
+137.0,2018.0,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Chris Gayle,Eden Gardens,159.0,10.0
+138.0,2010.0,Chennai,Gujarat Titans,Chennai Super Kings,Gujarat Titans,KL Rahul,Wankhede Stadium,215.0,2.0
+139.0,2018.0,Chennai,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,David Warner,Narendra Modi Stadium,228.0,0.0
+140.0,2019.0,Chennai,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,,Rajiv Gandhi Intl Stadium,,3.0
+141.0,2019.0,Chennai,Chennai Super Kings,Sunrisers Hyderabad,,Rashid Khan,MA Chidambaram Stadium,229.0,8.0
+142.0,2016.0,Mumbai,Lucknow Super Giants,Mumbai Indians,,Chris Gayle,,199.0,5.0
+143.0,2013.0,Bangalore,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Virat Kohli,MA Chidambaram Stadium,127.0,1.0
+144.0,2020.0,Jaipur,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,David Warner,MA Chidambaram Stadium,,4.0
+145.0,2009.0,Bangalore,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rashid Khan,Wankhede Stadium,140.0,4.0
+146.0,2023.0,Ahmedabad,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Chris Gayle,MA Chidambaram Stadium,251.0,1.0
+147.0,2011.0,Delhi,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,198.0,0.0
+148.0,2009.0,Mumbai,Kolkata Knight Riders,,Kolkata Knight Riders,Chris Gayle,MA Chidambaram Stadium,,
+149.0,2011.0,Mumbai,,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,MA Chidambaram Stadium,153.0,6.0
+150.0,2024.0,Hyderabad,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,KL Rahul,Narendra Modi Stadium,130.0,6.0
+151.0,2010.0,Hyderabad,Mumbai Indians,Gujarat Titans,Gujarat Titans,,M Chinnaswamy Stadium,226.0,4.0
+152.0,2008.0,Hyderabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Rashid Khan,M Chinnaswamy Stadium,212.0,1.0
+153.0,2015.0,Jaipur,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Jasprit Bumrah,,221.0,4.0
+154.0,2018.0,Bangalore,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,149.0,
+155.0,,Hyderabad,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,AB de Villiers,Wankhede Stadium,157.0,4.0
+,2012.0,Chennai,Kolkata Knight Riders,Royal Challengers Bangalore,,Hardik Pandya,M Chinnaswamy Stadium,234.0,10.0
+157.0,2012.0,Ahmedabad,Sunrisers Hyderabad,Lucknow Super Giants,,Hardik Pandya,M Chinnaswamy Stadium,197.0,4.0
+158.0,2024.0,Chennai,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,M Chinnaswamy Stadium,129.0,0.0
+159.0,2010.0,Chennai,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,,Arun Jaitley Stadium,130.0,7.0
+160.0,2023.0,,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,,Wankhede Stadium,207.0,1.0
+161.0,2009.0,Kolkata,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Arun Jaitley Stadium,253.0,9.0
+162.0,2019.0,Delhi,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,Narendra Modi Stadium,206.0,10.0
+163.0,2010.0,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,218.0,
+164.0,2018.0,Chennai,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,David Warner,Eden Gardens,220.0,2.0
+165.0,2020.0,Hyderabad,,Delhi Capitals,Chennai Super Kings,Jasprit Bumrah,Wankhede Stadium,228.0,8.0
+166.0,2019.0,Delhi,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,AB de Villiers,,244.0,3.0
+167.0,2012.0,Chennai,,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,,258.0,8.0
+168.0,2012.0,Jaipur,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rohit Sharma,MA Chidambaram Stadium,162.0,7.0
+169.0,2019.0,Kolkata,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Rashid Khan,Eden Gardens,234.0,3.0
+170.0,2017.0,Ahmedabad,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,David Warner,Rajiv Gandhi Intl Stadium,232.0,7.0
+171.0,2024.0,Jaipur,Delhi Capitals,Rajasthan Royals,Delhi Capitals,AB de Villiers,Narendra Modi Stadium,155.0,4.0
+172.0,2019.0,Chennai,Mumbai Indians,Gujarat Titans,Mumbai Indians,Chris Gayle,Wankhede Stadium,,4.0
+173.0,2021.0,Chennai,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Hardik Pandya,Eden Gardens,126.0,6.0
+,2024.0,Hyderabad,Mumbai Indians,Rajasthan Royals,Mumbai Indians,KL Rahul,Wankhede Stadium,215.0,3.0
+175.0,,Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Rohit Sharma,Wankhede Stadium,193.0,7.0
+176.0,2022.0,Mumbai,Royal Challengers Bangalore,Gujarat Titans,,MS Dhoni,Eden Gardens,175.0,2.0
+177.0,2011.0,Delhi,Lucknow Super Giants,,Lucknow Super Giants,Chris Gayle,,132.0,3.0
+178.0,2010.0,Chennai,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Rashid Khan,Arun Jaitley Stadium,124.0,10.0
+179.0,2012.0,Delhi,Lucknow Super Giants,Kolkata Knight Riders,,MS Dhoni,Arun Jaitley Stadium,210.0,3.0
+180.0,,Hyderabad,,Royal Challengers Bangalore,Rajasthan Royals,Jasprit Bumrah,Arun Jaitley Stadium,249.0,
+181.0,2020.0,,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,,Eden Gardens,184.0,0.0
+182.0,2019.0,Kolkata,,Chennai Super Kings,Sunrisers Hyderabad,Rashid Khan,Rajiv Gandhi Intl Stadium,205.0,2.0
+183.0,2018.0,,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Rajiv Gandhi Intl Stadium,,2.0
+184.0,2009.0,Delhi,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,MS Dhoni,Narendra Modi Stadium,171.0,
+185.0,2024.0,,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Chris Gayle,Wankhede Stadium,168.0,4.0
+,2018.0,Delhi,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,,M Chinnaswamy Stadium,,7.0
+187.0,2013.0,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,,252.0,4.0
+188.0,2010.0,,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Jasprit Bumrah,Eden Gardens,202.0,1.0
+189.0,,Delhi,Chennai Super Kings,,Sunrisers Hyderabad,Rashid Khan,Rajiv Gandhi Intl Stadium,229.0,
+190.0,2022.0,Mumbai,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Rashid Khan,M Chinnaswamy Stadium,190.0,10.0
+191.0,2020.0,Hyderabad,Mumbai Indians,Chennai Super Kings,Mumbai Indians,MS Dhoni,MA Chidambaram Stadium,232.0,
+192.0,2015.0,Hyderabad,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,,Arun Jaitley Stadium,,9.0
+193.0,2019.0,Hyderabad,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,Virat Kohli,Arun Jaitley Stadium,155.0,8.0
+194.0,2018.0,Delhi,Sunrisers Hyderabad,,Sunrisers Hyderabad,Virat Kohli,Wankhede Stadium,167.0,7.0
+,,,Lucknow Super Giants,Rajasthan Royals,,Hardik Pandya,,193.0,7.0
+196.0,2012.0,Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Rajiv Gandhi Intl Stadium,233.0,1.0
+197.0,2010.0,Delhi,Sunrisers Hyderabad,,Lucknow Super Giants,Rohit Sharma,Rajiv Gandhi Intl Stadium,164.0,5.0
+198.0,2011.0,Kolkata,Lucknow Super Giants,Kolkata Knight Riders,,AB de Villiers,Narendra Modi Stadium,246.0,0.0
+199.0,,Bangalore,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Virat Kohli,Eden Gardens,221.0,7.0
+200.0,2021.0,Chennai,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,David Warner,Rajiv Gandhi Intl Stadium,138.0,7.0
+201.0,2012.0,Bangalore,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,KL Rahul,Arun Jaitley Stadium,134.0,1.0
+202.0,2017.0,Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,,Rajiv Gandhi Intl Stadium,177.0,5.0
+203.0,2010.0,,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Jasprit Bumrah,Eden Gardens,152.0,10.0
+204.0,2024.0,Bangalore,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Rohit Sharma,Rajiv Gandhi Intl Stadium,,9.0
+205.0,2010.0,Mumbai,Mumbai Indians,Lucknow Super Giants,,AB de Villiers,Narendra Modi Stadium,226.0,9.0
+206.0,2017.0,Delhi,Mumbai Indians,Gujarat Titans,Gujarat Titans,AB de Villiers,Narendra Modi Stadium,223.0,4.0
+207.0,,,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,KL Rahul,M Chinnaswamy Stadium,238.0,3.0
+208.0,2018.0,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,MA Chidambaram Stadium,214.0,
+209.0,2018.0,,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Virat Kohli,,235.0,3.0
+,2009.0,Delhi,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Rashid Khan,M Chinnaswamy Stadium,183.0,2.0
+211.0,2014.0,Bangalore,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Jasprit Bumrah,M Chinnaswamy Stadium,247.0,
+,2010.0,Jaipur,Gujarat Titans,Mumbai Indians,,AB de Villiers,,210.0,0.0
+213.0,2023.0,Ahmedabad,,Delhi Capitals,Delhi Capitals,Jasprit Bumrah,Wankhede Stadium,147.0,6.0
+214.0,2019.0,Jaipur,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,MS Dhoni,M Chinnaswamy Stadium,133.0,9.0
+215.0,2019.0,Delhi,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,KL Rahul,Arun Jaitley Stadium,235.0,8.0
+216.0,2012.0,Chennai,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,David Warner,Narendra Modi Stadium,206.0,8.0
+217.0,2014.0,,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,MS Dhoni,,155.0,5.0
+218.0,2012.0,Bangalore,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Rashid Khan,Eden Gardens,,6.0
+219.0,2024.0,,Delhi Capitals,,Sunrisers Hyderabad,Hardik Pandya,Narendra Modi Stadium,124.0,5.0
+220.0,2021.0,Delhi,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Rashid Khan,M Chinnaswamy Stadium,187.0,10.0
+221.0,2023.0,Bangalore,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Rohit Sharma,Narendra Modi Stadium,182.0,0.0
+222.0,2008.0,Ahmedabad,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,MA Chidambaram Stadium,225.0,3.0
+223.0,2009.0,Bangalore,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Jasprit Bumrah,Eden Gardens,242.0,8.0
+224.0,2013.0,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Jasprit Bumrah,Eden Gardens,187.0,9.0
+225.0,2015.0,Delhi,,Kolkata Knight Riders,,AB de Villiers,Eden Gardens,193.0,3.0
+226.0,2023.0,Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Chris Gayle,Wankhede Stadium,259.0,6.0
+227.0,2012.0,,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Chris Gayle,,140.0,5.0
+228.0,2023.0,Kolkata,Gujarat Titans,Delhi Capitals,Gujarat Titans,Jasprit Bumrah,Eden Gardens,189.0,2.0
+229.0,2015.0,Mumbai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,AB de Villiers,Wankhede Stadium,145.0,6.0
+230.0,2011.0,Bangalore,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Jasprit Bumrah,,224.0,10.0
+231.0,2014.0,Delhi,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,Chris Gayle,Rajiv Gandhi Intl Stadium,135.0,1.0
+232.0,,Jaipur,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,MS Dhoni,Narendra Modi Stadium,221.0,7.0
+233.0,2009.0,Mumbai,Royal Challengers Bangalore,,Delhi Capitals,Rashid Khan,Arun Jaitley Stadium,147.0,5.0
+234.0,2024.0,Ahmedabad,Delhi Capitals,Gujarat Titans,Delhi Capitals,Jasprit Bumrah,M Chinnaswamy Stadium,,3.0
+235.0,2013.0,Ahmedabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Rohit Sharma,Wankhede Stadium,206.0,4.0
+236.0,2020.0,Jaipur,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Virat Kohli,M Chinnaswamy Stadium,144.0,2.0
+237.0,2018.0,Kolkata,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Chris Gayle,M Chinnaswamy Stadium,180.0,7.0
+238.0,,Mumbai,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,David Warner,Rajiv Gandhi Intl Stadium,,0.0
+239.0,2017.0,,Chennai Super Kings,Gujarat Titans,Gujarat Titans,,Rajiv Gandhi Intl Stadium,199.0,1.0
+240.0,2015.0,Kolkata,Delhi Capitals,,Delhi Capitals,Hardik Pandya,MA Chidambaram Stadium,236.0,9.0
+241.0,2023.0,Kolkata,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Rashid Khan,Narendra Modi Stadium,140.0,8.0
+242.0,2010.0,Chennai,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,,Arun Jaitley Stadium,171.0,9.0
+243.0,2013.0,Hyderabad,Lucknow Super Giants,Royal Challengers Bangalore,,Virat Kohli,Rajiv Gandhi Intl Stadium,172.0,9.0
+244.0,,Ahmedabad,,Chennai Super Kings,Gujarat Titans,,MA Chidambaram Stadium,,6.0
+245.0,2022.0,Delhi,Gujarat Titans,Mumbai Indians,Gujarat Titans,KL Rahul,Eden Gardens,120.0,3.0
+246.0,2021.0,Hyderabad,Chennai Super Kings,,Chennai Super Kings,Jasprit Bumrah,Wankhede Stadium,137.0,7.0
+247.0,2021.0,Bangalore,Mumbai Indians,Delhi Capitals,Mumbai Indians,KL Rahul,Eden Gardens,217.0,7.0
+248.0,2010.0,,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,MA Chidambaram Stadium,257.0,6.0
+249.0,2015.0,,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Chris Gayle,M Chinnaswamy Stadium,259.0,6.0
+250.0,2015.0,Kolkata,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,David Warner,MA Chidambaram Stadium,190.0,3.0
+251.0,2021.0,Mumbai,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,AB de Villiers,,,
+252.0,2009.0,Kolkata,Mumbai Indians,Gujarat Titans,Mumbai Indians,KL Rahul,M Chinnaswamy Stadium,179.0,8.0
+253.0,2012.0,Delhi,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Rashid Khan,Eden Gardens,202.0,3.0
+254.0,2024.0,Kolkata,Delhi Capitals,Royal Challengers Bangalore,,Chris Gayle,Eden Gardens,135.0,8.0
+255.0,,Mumbai,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,KL Rahul,,254.0,5.0
+256.0,2012.0,Delhi,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,,Narendra Modi Stadium,257.0,7.0
+257.0,2017.0,Bangalore,Kolkata Knight Riders,Lucknow Super Giants,,,Arun Jaitley Stadium,225.0,6.0
+258.0,2020.0,,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,AB de Villiers,,140.0,7.0
+259.0,2014.0,Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,KL Rahul,Rajiv Gandhi Intl Stadium,,
+260.0,2023.0,,Kolkata Knight Riders,,Lucknow Super Giants,Chris Gayle,Wankhede Stadium,174.0,3.0
+261.0,2015.0,Kolkata,Chennai Super Kings,Gujarat Titans,Gujarat Titans,AB de Villiers,,202.0,4.0
+262.0,2019.0,Delhi,Rajasthan Royals,Gujarat Titans,Gujarat Titans,David Warner,Arun Jaitley Stadium,247.0,7.0
+263.0,,Kolkata,Chennai Super Kings,Gujarat Titans,Gujarat Titans,David Warner,M Chinnaswamy Stadium,,
+264.0,2008.0,Delhi,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,MA Chidambaram Stadium,170.0,5.0
+265.0,2015.0,Ahmedabad,Kolkata Knight Riders,Rajasthan Royals,,Chris Gayle,Narendra Modi Stadium,245.0,10.0
+266.0,,Hyderabad,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Rohit Sharma,Rajiv Gandhi Intl Stadium,259.0,7.0
+267.0,2024.0,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,Narendra Modi Stadium,121.0,6.0
+268.0,2010.0,,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,AB de Villiers,Arun Jaitley Stadium,236.0,
+269.0,2023.0,Mumbai,Mumbai Indians,Gujarat Titans,Mumbai Indians,Jasprit Bumrah,Arun Jaitley Stadium,225.0,0.0
+270.0,2017.0,Mumbai,Mumbai Indians,Delhi Capitals,Delhi Capitals,Rohit Sharma,Wankhede Stadium,144.0,
+271.0,2014.0,Delhi,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Chris Gayle,Narendra Modi Stadium,221.0,1.0
+272.0,2022.0,Kolkata,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Chris Gayle,Rajiv Gandhi Intl Stadium,140.0,10.0
+273.0,2020.0,Jaipur,Mumbai Indians,,Chennai Super Kings,Jasprit Bumrah,M Chinnaswamy Stadium,134.0,10.0
+274.0,2010.0,,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,,Arun Jaitley Stadium,144.0,8.0
+275.0,2014.0,Ahmedabad,,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Wankhede Stadium,191.0,8.0
+276.0,2018.0,,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Rashid Khan,,221.0,1.0
+277.0,2015.0,,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,Narendra Modi Stadium,155.0,1.0
+278.0,2009.0,Chennai,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,AB de Villiers,Narendra Modi Stadium,139.0,5.0
+279.0,2008.0,Delhi,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,MA Chidambaram Stadium,211.0,8.0
+280.0,2013.0,Jaipur,Rajasthan Royals,,Rajasthan Royals,Rashid Khan,Eden Gardens,183.0,
+,2012.0,Jaipur,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,KL Rahul,,,
+282.0,2017.0,Ahmedabad,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Chris Gayle,Wankhede Stadium,153.0,1.0
+283.0,2022.0,Jaipur,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,MS Dhoni,Wankhede Stadium,,8.0
+284.0,2020.0,Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,KL Rahul,M Chinnaswamy Stadium,141.0,8.0
+285.0,2020.0,Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Chris Gayle,Eden Gardens,188.0,7.0
+286.0,2013.0,Jaipur,Royal Challengers Bangalore,,Chennai Super Kings,KL Rahul,Eden Gardens,243.0,1.0
+287.0,2015.0,Ahmedabad,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Hardik Pandya,Wankhede Stadium,154.0,4.0
+288.0,2018.0,Jaipur,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Hardik Pandya,Eden Gardens,230.0,10.0
+289.0,2018.0,Kolkata,Royal Challengers Bangalore,Delhi Capitals,,David Warner,MA Chidambaram Stadium,221.0,
+290.0,2015.0,Hyderabad,Delhi Capitals,Gujarat Titans,Gujarat Titans,Chris Gayle,Narendra Modi Stadium,220.0,5.0
+291.0,2013.0,Mumbai,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,,M Chinnaswamy Stadium,194.0,1.0
+292.0,2012.0,Delhi,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Chris Gayle,Rajiv Gandhi Intl Stadium,159.0,6.0
+293.0,2022.0,Ahmedabad,Rajasthan Royals,Chennai Super Kings,,Jasprit Bumrah,Arun Jaitley Stadium,,8.0
+294.0,2010.0,Chennai,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,David Warner,MA Chidambaram Stadium,131.0,
+295.0,,Chennai,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,,Eden Gardens,,8.0
+296.0,2022.0,Hyderabad,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Hardik Pandya,Narendra Modi Stadium,248.0,2.0
+297.0,,Chennai,Sunrisers Hyderabad,Mumbai Indians,,KL Rahul,Wankhede Stadium,149.0,2.0
+298.0,2018.0,Ahmedabad,Sunrisers Hyderabad,,,Jasprit Bumrah,M Chinnaswamy Stadium,209.0,7.0
+299.0,2022.0,Hyderabad,,Gujarat Titans,Chennai Super Kings,Chris Gayle,Wankhede Stadium,149.0,0.0
+300.0,2013.0,Kolkata,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Jasprit Bumrah,MA Chidambaram Stadium,204.0,8.0
+301.0,2015.0,Jaipur,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Rohit Sharma,Rajiv Gandhi Intl Stadium,230.0,6.0
+302.0,2022.0,Jaipur,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Rajiv Gandhi Intl Stadium,174.0,3.0
+303.0,2011.0,Bangalore,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,David Warner,MA Chidambaram Stadium,237.0,1.0
+304.0,2024.0,Hyderabad,Delhi Capitals,Gujarat Titans,Gujarat Titans,Rashid Khan,M Chinnaswamy Stadium,149.0,5.0
+305.0,2013.0,Delhi,Sunrisers Hyderabad,Gujarat Titans,,Rohit Sharma,Eden Gardens,150.0,3.0
+306.0,2013.0,,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Jasprit Bumrah,M Chinnaswamy Stadium,227.0,9.0
+307.0,,Bangalore,Royal Challengers Bangalore,,Rajasthan Royals,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,164.0,8.0
+308.0,2017.0,Bangalore,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,David Warner,Narendra Modi Stadium,235.0,
+309.0,2008.0,Ahmedabad,,Sunrisers Hyderabad,Mumbai Indians,AB de Villiers,Narendra Modi Stadium,218.0,8.0
+310.0,2021.0,Ahmedabad,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Hardik Pandya,M Chinnaswamy Stadium,162.0,1.0
+311.0,2017.0,Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,Arun Jaitley Stadium,193.0,2.0
+312.0,2024.0,Chennai,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Chris Gayle,Narendra Modi Stadium,259.0,5.0
+313.0,,Kolkata,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Virat Kohli,Rajiv Gandhi Intl Stadium,183.0,
+314.0,2016.0,Hyderabad,Mumbai Indians,Gujarat Titans,Mumbai Indians,Hardik Pandya,Narendra Modi Stadium,150.0,3.0
+315.0,2021.0,Bangalore,,Sunrisers Hyderabad,Kolkata Knight Riders,AB de Villiers,Narendra Modi Stadium,172.0,0.0
+316.0,2013.0,Hyderabad,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Chris Gayle,Arun Jaitley Stadium,,8.0
+,2021.0,Mumbai,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Rajiv Gandhi Intl Stadium,,
+318.0,2015.0,Jaipur,Royal Challengers Bangalore,,Sunrisers Hyderabad,Rohit Sharma,Arun Jaitley Stadium,188.0,10.0
+319.0,2022.0,Chennai,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,KL Rahul,Arun Jaitley Stadium,191.0,5.0
+320.0,,Mumbai,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Hardik Pandya,Rajiv Gandhi Intl Stadium,211.0,1.0
+321.0,2014.0,Jaipur,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Hardik Pandya,Eden Gardens,202.0,4.0
+322.0,2023.0,Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,MS Dhoni,Wankhede Stadium,237.0,0.0
+323.0,2022.0,,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,KL Rahul,MA Chidambaram Stadium,153.0,10.0
+324.0,2016.0,Chennai,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,Wankhede Stadium,215.0,10.0
+325.0,2020.0,Delhi,,Mumbai Indians,,KL Rahul,Rajiv Gandhi Intl Stadium,143.0,
+326.0,2023.0,Chennai,Mumbai Indians,Kolkata Knight Riders,,Rashid Khan,MA Chidambaram Stadium,252.0,10.0
+327.0,2008.0,Hyderabad,Gujarat Titans,Mumbai Indians,Gujarat Titans,KL Rahul,Rajiv Gandhi Intl Stadium,153.0,7.0
+328.0,2020.0,Chennai,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,,Eden Gardens,,
+329.0,,Bangalore,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Jasprit Bumrah,Arun Jaitley Stadium,122.0,9.0
+330.0,2019.0,Kolkata,Royal Challengers Bangalore,Gujarat Titans,,KL Rahul,Arun Jaitley Stadium,233.0,3.0
+331.0,2012.0,Chennai,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,David Warner,M Chinnaswamy Stadium,200.0,2.0
+332.0,2010.0,Kolkata,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,MS Dhoni,Narendra Modi Stadium,197.0,
+333.0,2020.0,Delhi,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,AB de Villiers,M Chinnaswamy Stadium,218.0,1.0
+,2010.0,Mumbai,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,,MA Chidambaram Stadium,,
+,2013.0,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,MS Dhoni,,137.0,0.0
+336.0,2009.0,Mumbai,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Jasprit Bumrah,Eden Gardens,248.0,6.0
+,2010.0,,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,Eden Gardens,140.0,8.0
+338.0,2018.0,Jaipur,Kolkata Knight Riders,,Kolkata Knight Riders,Chris Gayle,Rajiv Gandhi Intl Stadium,,3.0
+339.0,2010.0,Jaipur,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Hardik Pandya,,134.0,4.0
+340.0,2008.0,,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Rohit Sharma,,,8.0
+341.0,2013.0,Hyderabad,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,,Rajiv Gandhi Intl Stadium,150.0,0.0
+342.0,2016.0,Chennai,,,,Rashid Khan,Rajiv Gandhi Intl Stadium,139.0,7.0
+343.0,2009.0,Ahmedabad,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,David Warner,MA Chidambaram Stadium,,1.0
+344.0,2024.0,Mumbai,Chennai Super Kings,,Chennai Super Kings,MS Dhoni,MA Chidambaram Stadium,,7.0
+345.0,2012.0,Bangalore,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Jasprit Bumrah,Narendra Modi Stadium,227.0,3.0
+346.0,,Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,,,215.0,1.0
+347.0,2013.0,Kolkata,Lucknow Super Giants,Mumbai Indians,,KL Rahul,Wankhede Stadium,239.0,4.0
+348.0,2010.0,Ahmedabad,,Sunrisers Hyderabad,Delhi Capitals,David Warner,,194.0,9.0
+349.0,2022.0,Hyderabad,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,AB de Villiers,Rajiv Gandhi Intl Stadium,259.0,
+350.0,2021.0,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,Eden Gardens,122.0,
+351.0,2017.0,Chennai,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Jasprit Bumrah,MA Chidambaram Stadium,227.0,7.0
+352.0,2016.0,,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,Narendra Modi Stadium,253.0,6.0
+353.0,2010.0,Chennai,Sunrisers Hyderabad,Gujarat Titans,Sunrisers Hyderabad,KL Rahul,Wankhede Stadium,135.0,6.0
+354.0,,Delhi,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,KL Rahul,Rajiv Gandhi Intl Stadium,203.0,5.0
+355.0,2015.0,Chennai,Gujarat Titans,Delhi Capitals,Gujarat Titans,Rohit Sharma,Narendra Modi Stadium,147.0,2.0
+356.0,,Ahmedabad,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,KL Rahul,,257.0,5.0
+,2017.0,Ahmedabad,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,Virat Kohli,Wankhede Stadium,160.0,10.0
+358.0,,Hyderabad,Delhi Capitals,Mumbai Indians,Delhi Capitals,Virat Kohli,Rajiv Gandhi Intl Stadium,183.0,5.0
+359.0,2017.0,,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,,M Chinnaswamy Stadium,235.0,8.0
+360.0,2011.0,,,Kolkata Knight Riders,Lucknow Super Giants,Rohit Sharma,Wankhede Stadium,123.0,0.0
+361.0,2014.0,Jaipur,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,,Arun Jaitley Stadium,186.0,1.0
+,,,Mumbai Indians,,,Virat Kohli,,204.0,1.0
+363.0,2009.0,Bangalore,Mumbai Indians,Gujarat Titans,Gujarat Titans,KL Rahul,M Chinnaswamy Stadium,127.0,6.0
+364.0,2019.0,Kolkata,Rajasthan Royals,Royal Challengers Bangalore,,Chris Gayle,Eden Gardens,234.0,2.0
+365.0,2017.0,Ahmedabad,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Jasprit Bumrah,M Chinnaswamy Stadium,135.0,1.0
+366.0,2012.0,Jaipur,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Jasprit Bumrah,MA Chidambaram Stadium,259.0,0.0
+367.0,2023.0,,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Rashid Khan,Arun Jaitley Stadium,202.0,6.0
+368.0,2008.0,Hyderabad,,Royal Challengers Bangalore,,MS Dhoni,Narendra Modi Stadium,191.0,0.0
+369.0,2015.0,Bangalore,,Sunrisers Hyderabad,Gujarat Titans,AB de Villiers,Rajiv Gandhi Intl Stadium,181.0,4.0
+370.0,2015.0,Jaipur,,Mumbai Indians,Mumbai Indians,Rohit Sharma,MA Chidambaram Stadium,180.0,9.0
+371.0,2008.0,Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,Rashid Khan,MA Chidambaram Stadium,246.0,8.0
+,2023.0,Mumbai,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,MS Dhoni,MA Chidambaram Stadium,176.0,0.0
+373.0,2008.0,Hyderabad,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Rohit Sharma,Eden Gardens,,5.0
+374.0,,Bangalore,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Jasprit Bumrah,Narendra Modi Stadium,213.0,1.0
+,2011.0,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,David Warner,MA Chidambaram Stadium,160.0,6.0
+376.0,2013.0,Hyderabad,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,Rashid Khan,Narendra Modi Stadium,164.0,6.0
+377.0,2012.0,Bangalore,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,,M Chinnaswamy Stadium,128.0,2.0
+,2011.0,Ahmedabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,David Warner,Rajiv Gandhi Intl Stadium,139.0,
+379.0,2013.0,Chennai,Sunrisers Hyderabad,,Lucknow Super Giants,Hardik Pandya,Wankhede Stadium,187.0,3.0
+380.0,2019.0,Delhi,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,Wankhede Stadium,218.0,7.0
+381.0,2021.0,Ahmedabad,Rajasthan Royals,Royal Challengers Bangalore,,David Warner,,216.0,1.0
+382.0,2013.0,Ahmedabad,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,MS Dhoni,Eden Gardens,125.0,5.0
+383.0,2010.0,Hyderabad,,Chennai Super Kings,Delhi Capitals,KL Rahul,MA Chidambaram Stadium,139.0,8.0
+384.0,2023.0,Mumbai,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,,Arun Jaitley Stadium,231.0,2.0
+,2018.0,Kolkata,,Chennai Super Kings,Mumbai Indians,KL Rahul,Rajiv Gandhi Intl Stadium,258.0,4.0
+386.0,2015.0,Chennai,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,KL Rahul,Arun Jaitley Stadium,260.0,
+387.0,2019.0,Mumbai,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Virat Kohli,Eden Gardens,242.0,3.0
+388.0,2014.0,Bangalore,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Virat Kohli,M Chinnaswamy Stadium,,4.0
+,2023.0,Delhi,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Jasprit Bumrah,M Chinnaswamy Stadium,167.0,5.0
+390.0,2013.0,Ahmedabad,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Chris Gayle,,239.0,4.0
+391.0,2009.0,Bangalore,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Virat Kohli,Rajiv Gandhi Intl Stadium,208.0,8.0
+392.0,2009.0,Jaipur,Rajasthan Royals,Kolkata Knight Riders,,Jasprit Bumrah,,241.0,9.0
+393.0,2017.0,Chennai,,Gujarat Titans,Gujarat Titans,MS Dhoni,Arun Jaitley Stadium,252.0,9.0
+394.0,2022.0,Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,AB de Villiers,Narendra Modi Stadium,169.0,
+,,Jaipur,Mumbai Indians,Rajasthan Royals,Mumbai Indians,Rohit Sharma,Narendra Modi Stadium,186.0,5.0
+396.0,2020.0,Jaipur,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Chris Gayle,Arun Jaitley Stadium,237.0,
+397.0,2011.0,Jaipur,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,Rohit Sharma,Arun Jaitley Stadium,145.0,1.0
+398.0,2019.0,Jaipur,Chennai Super Kings,Delhi Capitals,Delhi Capitals,KL Rahul,Rajiv Gandhi Intl Stadium,244.0,9.0
+399.0,2013.0,Delhi,Gujarat Titans,Mumbai Indians,,Rohit Sharma,Arun Jaitley Stadium,222.0,0.0
+400.0,2015.0,Mumbai,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Chris Gayle,Eden Gardens,125.0,5.0
+401.0,2016.0,Ahmedabad,,Lucknow Super Giants,Delhi Capitals,AB de Villiers,MA Chidambaram Stadium,196.0,7.0
+402.0,2021.0,Chennai,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Hardik Pandya,,224.0,7.0
+403.0,2009.0,Bangalore,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,Chris Gayle,Rajiv Gandhi Intl Stadium,,6.0
+404.0,2013.0,Kolkata,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,MS Dhoni,MA Chidambaram Stadium,128.0,7.0
+405.0,2014.0,Delhi,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Hardik Pandya,Arun Jaitley Stadium,221.0,
+406.0,2015.0,Hyderabad,Chennai Super Kings,Mumbai Indians,Mumbai Indians,Rashid Khan,M Chinnaswamy Stadium,165.0,7.0
+,2019.0,Bangalore,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,,Eden Gardens,127.0,6.0
+408.0,2014.0,Kolkata,,Royal Challengers Bangalore,Mumbai Indians,AB de Villiers,Eden Gardens,224.0,8.0
+,2023.0,Bangalore,Mumbai Indians,,Mumbai Indians,Rashid Khan,Narendra Modi Stadium,122.0,3.0
+,2016.0,Jaipur,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,David Warner,M Chinnaswamy Stadium,184.0,3.0
+411.0,2024.0,Jaipur,Gujarat Titans,,Gujarat Titans,MS Dhoni,Arun Jaitley Stadium,215.0,8.0
+412.0,,Ahmedabad,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,David Warner,Eden Gardens,203.0,4.0
+413.0,2014.0,Bangalore,,Lucknow Super Giants,Delhi Capitals,MS Dhoni,,223.0,
+414.0,2008.0,Ahmedabad,Sunrisers Hyderabad,,Royal Challengers Bangalore,,M Chinnaswamy Stadium,,6.0
+415.0,2018.0,Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,David Warner,Arun Jaitley Stadium,196.0,2.0
+,2017.0,Chennai,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,Rohit Sharma,Rajiv Gandhi Intl Stadium,186.0,8.0
+417.0,2010.0,Kolkata,,Sunrisers Hyderabad,Sunrisers Hyderabad,AB de Villiers,Rajiv Gandhi Intl Stadium,198.0,6.0
+418.0,2016.0,Delhi,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Virat Kohli,M Chinnaswamy Stadium,133.0,10.0
+419.0,2014.0,Chennai,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Jasprit Bumrah,Eden Gardens,225.0,0.0
+420.0,2014.0,Hyderabad,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rashid Khan,,156.0,5.0
+421.0,2023.0,Hyderabad,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,David Warner,Rajiv Gandhi Intl Stadium,134.0,0.0
+422.0,2014.0,,,Delhi Capitals,Gujarat Titans,Hardik Pandya,Narendra Modi Stadium,142.0,2.0
+423.0,2020.0,Jaipur,Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,,Wankhede Stadium,129.0,8.0
+424.0,,Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,MS Dhoni,Rajiv Gandhi Intl Stadium,,10.0
+425.0,2019.0,Delhi,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Virat Kohli,M Chinnaswamy Stadium,248.0,9.0
+426.0,2010.0,Mumbai,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Chris Gayle,M Chinnaswamy Stadium,253.0,9.0
+427.0,2021.0,Bangalore,Lucknow Super Giants,,,Hardik Pandya,,168.0,
+428.0,2015.0,Kolkata,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,AB de Villiers,Rajiv Gandhi Intl Stadium,125.0,9.0
+429.0,2011.0,Hyderabad,Lucknow Super Giants,Royal Challengers Bangalore,,KL Rahul,,185.0,8.0
+430.0,2011.0,,Mumbai Indians,Lucknow Super Giants,,Virat Kohli,M Chinnaswamy Stadium,233.0,6.0
+431.0,,Bangalore,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,,Eden Gardens,227.0,10.0
+432.0,2012.0,Jaipur,Chennai Super Kings,,Chennai Super Kings,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,,4.0
+433.0,2023.0,Kolkata,Chennai Super Kings,,Chennai Super Kings,,Narendra Modi Stadium,253.0,3.0
+434.0,2017.0,Bangalore,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Jasprit Bumrah,M Chinnaswamy Stadium,173.0,7.0
+435.0,2008.0,Mumbai,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Virat Kohli,Narendra Modi Stadium,246.0,2.0
+436.0,2011.0,,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Hardik Pandya,Eden Gardens,187.0,
+437.0,2013.0,Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,,Narendra Modi Stadium,200.0,6.0
+438.0,,Mumbai,Chennai Super Kings,Lucknow Super Giants,Chennai Super Kings,Rohit Sharma,Eden Gardens,211.0,7.0
+439.0,,Hyderabad,,Chennai Super Kings,Delhi Capitals,,M Chinnaswamy Stadium,222.0,7.0
+440.0,2023.0,Jaipur,Delhi Capitals,Rajasthan Royals,Delhi Capitals,Virat Kohli,MA Chidambaram Stadium,135.0,2.0
+,2023.0,Ahmedabad,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,,M Chinnaswamy Stadium,211.0,9.0
+442.0,2023.0,Ahmedabad,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,KL Rahul,M Chinnaswamy Stadium,131.0,1.0
+443.0,2008.0,Kolkata,,Sunrisers Hyderabad,Sunrisers Hyderabad,Jasprit Bumrah,Arun Jaitley Stadium,144.0,6.0
+444.0,2019.0,Jaipur,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,Jasprit Bumrah,Arun Jaitley Stadium,133.0,0.0
+445.0,2023.0,Bangalore,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Hardik Pandya,Eden Gardens,181.0,
+446.0,2024.0,Kolkata,Delhi Capitals,Mumbai Indians,Mumbai Indians,KL Rahul,,180.0,
+447.0,2022.0,Chennai,,Lucknow Super Giants,Lucknow Super Giants,Hardik Pandya,Eden Gardens,150.0,
+448.0,2020.0,Jaipur,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Jasprit Bumrah,Arun Jaitley Stadium,120.0,1.0
+449.0,2022.0,Hyderabad,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,,177.0,7.0
+450.0,,Ahmedabad,Sunrisers Hyderabad,Gujarat Titans,,Virat Kohli,Narendra Modi Stadium,176.0,0.0
+,2017.0,Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,Sunrisers Hyderabad,MS Dhoni,MA Chidambaram Stadium,246.0,2.0
+452.0,2016.0,Kolkata,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Virat Kohli,Narendra Modi Stadium,,3.0
+453.0,2018.0,Chennai,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,MS Dhoni,Rajiv Gandhi Intl Stadium,151.0,7.0
+454.0,2023.0,Mumbai,Gujarat Titans,,Gujarat Titans,Jasprit Bumrah,M Chinnaswamy Stadium,243.0,8.0
+455.0,2012.0,Chennai,Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Rashid Khan,Arun Jaitley Stadium,202.0,
+456.0,2015.0,,Rajasthan Royals,,Lucknow Super Giants,David Warner,Eden Gardens,235.0,2.0
+457.0,2024.0,Delhi,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Jasprit Bumrah,,175.0,3.0
+458.0,2019.0,Bangalore,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,Jasprit Bumrah,Arun Jaitley Stadium,202.0,1.0
+459.0,2021.0,Delhi,Sunrisers Hyderabad,,Gujarat Titans,MS Dhoni,Arun Jaitley Stadium,147.0,0.0
+460.0,,,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Chris Gayle,Narendra Modi Stadium,161.0,4.0
+461.0,2009.0,Delhi,,Royal Challengers Bangalore,Delhi Capitals,Jasprit Bumrah,,211.0,7.0
+,2020.0,Kolkata,Chennai Super Kings,Kolkata Knight Riders,,,M Chinnaswamy Stadium,219.0,6.0
+463.0,2008.0,Delhi,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Rashid Khan,Narendra Modi Stadium,233.0,3.0
+464.0,2014.0,Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Rajiv Gandhi Intl Stadium,139.0,2.0
+465.0,2020.0,Mumbai,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Chris Gayle,Arun Jaitley Stadium,187.0,2.0
+466.0,2008.0,Hyderabad,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Rohit Sharma,Wankhede Stadium,159.0,5.0
+467.0,2023.0,Hyderabad,Mumbai Indians,Delhi Capitals,Mumbai Indians,David Warner,Arun Jaitley Stadium,,2.0
+468.0,2024.0,Bangalore,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Jasprit Bumrah,Arun Jaitley Stadium,223.0,1.0
+469.0,,Hyderabad,,Kolkata Knight Riders,Kolkata Knight Riders,David Warner,Eden Gardens,175.0,9.0
+470.0,2008.0,,Lucknow Super Giants,,Gujarat Titans,Hardik Pandya,MA Chidambaram Stadium,182.0,0.0
+471.0,2011.0,Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Jasprit Bumrah,Rajiv Gandhi Intl Stadium,192.0,
+472.0,2024.0,,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,MS Dhoni,Eden Gardens,169.0,5.0
+473.0,,,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,,MA Chidambaram Stadium,174.0,10.0
+474.0,2014.0,Jaipur,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Rohit Sharma,,237.0,5.0
+475.0,2010.0,Mumbai,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Chris Gayle,Arun Jaitley Stadium,138.0,
+,2021.0,Jaipur,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,,M Chinnaswamy Stadium,200.0,0.0
+477.0,2008.0,Chennai,,Chennai Super Kings,Rajasthan Royals,Virat Kohli,Eden Gardens,248.0,1.0
+478.0,2010.0,Delhi,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,KL Rahul,M Chinnaswamy Stadium,127.0,7.0
+479.0,2012.0,Jaipur,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Rohit Sharma,Eden Gardens,215.0,0.0
+480.0,2011.0,Mumbai,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,Rashid Khan,Arun Jaitley Stadium,,8.0
+481.0,2017.0,Kolkata,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,,M Chinnaswamy Stadium,251.0,2.0
+482.0,2015.0,Delhi,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Virat Kohli,MA Chidambaram Stadium,133.0,8.0
+483.0,2017.0,Chennai,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Virat Kohli,MA Chidambaram Stadium,244.0,5.0
+484.0,2015.0,Chennai,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,,Wankhede Stadium,169.0,5.0
+485.0,,Delhi,,Lucknow Super Giants,Gujarat Titans,Rashid Khan,Arun Jaitley Stadium,213.0,5.0
+,2008.0,Hyderabad,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,AB de Villiers,Rajiv Gandhi Intl Stadium,231.0,4.0
+487.0,2018.0,Ahmedabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Hardik Pandya,Eden Gardens,198.0,7.0
+488.0,2013.0,Chennai,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,Rohit Sharma,Arun Jaitley Stadium,,4.0
+489.0,2008.0,Mumbai,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Rashid Khan,MA Chidambaram Stadium,129.0,
+490.0,2012.0,Hyderabad,Delhi Capitals,Gujarat Titans,Gujarat Titans,,Narendra Modi Stadium,194.0,2.0
+,2020.0,Hyderabad,Gujarat Titans,Chennai Super Kings,,,Narendra Modi Stadium,162.0,8.0
+,2013.0,Bangalore,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Hardik Pandya,Eden Gardens,130.0,3.0
+493.0,2010.0,Delhi,Gujarat Titans,Kolkata Knight Riders,,AB de Villiers,Wankhede Stadium,172.0,8.0
+494.0,2023.0,Ahmedabad,Sunrisers Hyderabad,,Sunrisers Hyderabad,MS Dhoni,Rajiv Gandhi Intl Stadium,202.0,1.0
+495.0,,Bangalore,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,KL Rahul,Eden Gardens,139.0,8.0
+,2015.0,Jaipur,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,David Warner,M Chinnaswamy Stadium,243.0,9.0
+497.0,2022.0,Bangalore,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,Arun Jaitley Stadium,191.0,3.0
+,2013.0,Hyderabad,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,AB de Villiers,M Chinnaswamy Stadium,204.0,1.0
+499.0,,Kolkata,Gujarat Titans,Lucknow Super Giants,,KL Rahul,Wankhede Stadium,182.0,0.0
+500.0,2012.0,Mumbai,Royal Challengers Bangalore,,Royal Challengers Bangalore,MS Dhoni,MA Chidambaram Stadium,186.0,2.0

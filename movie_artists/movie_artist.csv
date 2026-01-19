@@ -1,0 +1,41 @@
+id,name,gender,age,debut_year,no_of_films,no_of_awards,active_status,place_of_birth
+1,Mohanlal,Male,64,1978,350,45,Active,Pathanamthitta
+2,Mammootty,Male,73,1971,420,50,Active,Kottayam
+3,Dileep,Male,56,1992,150,12,Active,Aluva
+4,Prithviraj Sukumaran,Male,42,2002,120,18,Active,Thiruvananthapuram
+5,Fahadh Faasil,Male,42,2002,90,25,Active,Alappuzha
+6,Nivin Pauly,Male,40,2010,70,10,Active,Aluva
+7,Tovino Thomas,Male,35,2012,65,8,Active,Idukki
+8,Asif Ali,Male,38,2009,75,6,Active,Thodupuzha
+9,Kunchacko Boban,Male,48,1981,100,5,Active,Alappuzha
+10,Jayaram,Male,58,1988,200,20,Active,Perumbavoor
+11,Suresh Gopi,Male,66,1965,250,30,Active,Kollam
+12,Biju Menon,Male,54,1994,140,10,Active,Thrissur
+13,Suraj Venjaramoodu,Male,48,2004,150,22,Active,Venjaramoodu
+14,Salim Kumar,Male,55,1997,200,15,Active,Chalakudy
+15,Joju George,Male,47,2000,100,12,Active,Thrissur
+16,Indrajith Sukumaran,Male,44,2002,80,5,Active,Thiruvananthapuram
+17,Shane Nigam,Male,29,2014,35,4,Active,Ernakulam
+18,Arjun Ashokan,Male,32,2012,40,2,Active,Haripad
+19,Unni Mukundan,Male,41,2011,60,6,Active,Thrissur
+20,Vineeth Sreenivasan,Male,39,2005,55,8,Active,Thalassery
+21,Manju Warrier,Female,45,1995,90,30,Active,Nagercoil
+22,Shobana,Female,54,1984,230,40,Active,Thiruvananthapuram
+23,Meena,Female,48,1982,200,25,Active,Chennai
+24,Kavya Madhavan,Female,40,1999,75,8,Inactive,Nileshwaram
+25,Navya Nair,Female,39,2001,60,12,Active,Haripad
+26,Parvathy Thiruvothu,Female,36,2006,40,20,Active,Kottayam
+27,Anna Ben,Female,28,2017,20,5,Active,Kochi
+28,Aishwarya Lekshmi,Female,33,2017,30,6,Active,Trivandrum
+29,Nazriya Nazim,Female,30,2006,25,7,Active,Thiruvananthapuram
+30,Samyuktha Menon,Female,28,2016,35,3,Active,Palakkad
+31,Urvashi,Female,56,1979,350,45,Active,Thiruvananthapuram
+32,Revathi,Female,57,1983,130,30,Active,Kochi
+33,Kaniha,Female,42,2002,55,4,Active,Palakkad
+34,Lena,Female,43,2001,120,8,Active,Thrissur
+35,Anusree,Female,34,2012,60,5,Active,Kannur
+36,Rajisha Vijayan,Female,33,2016,35,6,Active,Perambra
+37,Nimisha Sajayan,Female,27,2017,25,8,Active,Mumbai
+38,Mamta Mohandas,Female,39,2005,45,6,Active,Manama
+39,Malavika Mohanan,Female,31,2013,30,3,Active,Payyanur
+40,Grace Antony,Female,27,2016,35,4,Active,Kochi
